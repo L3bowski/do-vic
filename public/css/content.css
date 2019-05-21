@@ -13,7 +13,7 @@
 
 body {
 	/*Fons de la pàgina*/
-	background: url(../images/MainBG.png);
+	background: url(/images/MainBG.png?$modena=do-vic);
 	background-repeat:repeat;
 }
 	
@@ -39,7 +39,6 @@ body {
 	color: #000; /*#5C3317;*/
 	font-style:italic;
 	border-radius: 5px; /*Arrodonir les cantonades de la capsa*/
-/*	background: url(Images/BGCapsa.png);*/
 	background-color:#B16825;
 	background-repeat:repeat;
 	-webkit-box-shadow: 0 0 10px #B16825; /*Ombra de la capsa*/
